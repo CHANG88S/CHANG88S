@@ -2,8 +2,10 @@
 
 🎓 Bachelor's in CS from California State University Northridge <br/>
 ✨ I enjoy doing front end development, specifically in React Native! <br/>
-🍲 I am a foodie at heart! <br/>
-⌨️ PC gamer as a hobby :) <br/>
+📄 I also have an interest in Data Science and Analyst Roles! <br/>
+💼 Open to other roles as well <br/>
+🧋 I am a foodie at heart! <br/>
+💻 PC gamer as a hobby :) <br/>
 
 
 # 💻 Tech Stack:
@@ -12,6 +14,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=CHANG88S&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=CHANG88S&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CHANG88S&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=CHANG88S&icon=0&color=0)](https://visitcount.itsvg.in)
